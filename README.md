@@ -4,6 +4,8 @@
 
 - <b>[Active Directory Home lab] (Oracle Virtual Box, Window AD DC, Powershell)</b>
   - [Window AD DC set up with 1000 users script](https://github.com/nghidinh0610/Active-Directory-Domain-Controler)
+- <b>[File Integrity Monitoring] (Powershell)</b>
+  - [FIM script](https://github.com/nghidinh0610/File-Integrity-Monitoring)
 
 <h2>📖 Certifications</h2>
 
