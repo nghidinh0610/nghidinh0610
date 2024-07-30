@@ -6,8 +6,8 @@
   - [Window AD DC set up with 1000 users script](https://github.com/nghidinh0610/Active-Directory-Domain-Controler)
 - <b>[File Integrity Monitoring] (Powershell)</b>
   - [FIM script](https://github.com/nghidinh0610/File-Integrity-Monitoring)
-- <b>[Honeypot and SIEM on Cloud] (Microsoft Azure)<b/>
-  - Azure Sentinel (SIEM) and Honeypot (documentary in progress)
+- <b>[Budget-Protein Calculator] (Personal Java Project)<b/>
+  - [Budget - Protein Calculator](https://github.com/nghidinh0610/Budget-Protein-Calculator)
 
 <h2>📖 Certifications</h2>
 
