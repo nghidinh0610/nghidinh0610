@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nghi! <br/> <a href="https://www.linkedin.com/in/nghidinh/">Network Engineer and Security Professional</a> 
+<h1>Hi, I'm Nghi! <br/> <a href="https://www.linkedin.com/in/nghidinh/">Security Professional and Software Development</a> 
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
@@ -6,6 +6,9 @@
   - [Window AD DC set up with 1000 users script](https://github.com/nghidinh0610/Active-Directory-Domain-Controler)
 - <b>[File Integrity Monitoring] (Powershell)</b>
   - [FIM script](https://github.com/nghidinh0610/File-Integrity-Monitoring)
+
+<h2>👨‍💻 Sofware Development Projects:</h2>
+
 - <b>[Budget-Protein Calculator] (Personal Java Project)<b/>
   - [Budget - Protein Calculator](https://github.com/nghidinh0610/Budget-Protein-Calculator)
 
