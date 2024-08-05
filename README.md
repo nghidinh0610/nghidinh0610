@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nghi! <br/> <a href="https://www.linkedin.com/in/nghidinh/">Security Professional and Software Development</a> 
+<h1>Hi, I'm Nghi! <br/> <a href="https://www.linkedin.com/in/nghidinh/">Security Professional and Software Developer</a> 
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
