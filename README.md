@@ -9,7 +9,7 @@
 
 <h2>👨‍💻 Sofware Development Projects:</h2>
 
-- <b>[Budget-Protein Calculator] (Personal Java Project)<b/>
+- <b>[Budget-Protein Calculator] <b/>
   - [Budget - Protein Calculator](https://github.com/nghidinh0610/Budget-Protein-Calculator)
 
 <h2>📖 Certifications</h2>
